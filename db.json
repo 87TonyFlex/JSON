@@ -1,6 +1,11 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "Deepak",
-  "completed": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "Deepak"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
