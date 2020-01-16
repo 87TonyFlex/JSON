@@ -6,7 +6,7 @@
       {
         "Description": "", 
         "Quality": "\u0001", 
-        "SensorName": "ICR16_LTP1_INV1D_DEEPAK", 
+        "SensorName": "ICR16_LTP1_INV1D_REAPER", 
         "TagName": "ICR16_LTP1_INV1.Response.AC.Power.Active_Power", 
         "TimeStamp": "2020-01-06 11:35:40.196", 
         "Unit": "", 
