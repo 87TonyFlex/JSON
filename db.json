@@ -19,7 +19,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:05:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -28,7 +28,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:10:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -46,7 +46,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:20:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -55,7 +55,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:25:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -73,7 +73,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:35:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -82,7 +82,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:40:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -100,7 +100,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:50:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -109,7 +109,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 11:55:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -127,7 +127,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:05:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -136,7 +136,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:10:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -154,7 +154,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:20:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -163,7 +163,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:25:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -181,7 +181,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:35:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -190,7 +190,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:40:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }, 
       {
         "Description": "", 
@@ -208,7 +208,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:50:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "4.000"
       }, 
       {
         "Description": "", 
@@ -217,7 +217,7 @@
         "TagName": "ICR16_LTP1_INV1.Response.AC.Energy.Total_Energy_Yield", 
         "TimeStamp": "2020-01-06 12:55:30.717", 
         "Unit": "", 
-        "Value": "3.000"
+        "Value": "5.000"
       }    
       
     ]
