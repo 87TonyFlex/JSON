@@ -11,7 +11,7 @@
 	"AckState": "AckState1",
         "AckTimeStamp": "2020-01-06 11:00:30.717", 
         "Class": "Class1",
-        "Priority": "Priority1"
+        "Priority": "Priority1",
         "Description": "Desc1", 
         "Msg": "Message1", 
         "State": "Abnormal2"
@@ -23,7 +23,7 @@
 	"AckState": "AckState1",
         "AckTimeStamp": "2020-01-06 11:06:30.717", 
         "Class": "Class2",
-        "Priority": "Priority2"
+        "Priority": "Priority2",
         "Description": "Desc2", 
         "Msg": "Message2", 
         "State": "Abnormal2"
